@@ -1,0 +1,49 @@
+body{
+    color: #6ea8fe;
+}
+.navbar{
+    background-color: #0a53be;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar-item-left{
+    display: flex;
+    background-color: black;
+    height: 60px;
+    padding: 10px;
+    align-items: center;
+}
+.navbar-brand{
+    background-color: pink;
+    padding-top: 5px;
+}
+
+.navbar-item-left-inner-right{
+    background-color: pink;
+    width: 70px;
+    padding-top: 5px;
+    margin: 5px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.navbar-item-right{
+    display: flex;
+    background-color: red;
+    height: 60px;
+    padding: 10px;
+    align-items: center;
+}
+
+.navbar-item-left-inner-left{
+    background-color: pink;
+    width: 70px;
+    padding-top: 5px;
+    margin: 5px;
+    text-align: center;
+    justify-content: center;
+
+}
