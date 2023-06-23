@@ -66,9 +66,15 @@ body{
     color: white;
     font-weight: 700;
     line-height: 1.25;
-    background-color: #0a3622;
+
 }
 
 .header-item-right{
     padding: 10px;
+}
+
+.babe{
+    padding: 10px;
+    font-size: 25px;
+    font-family: Arial;
 }
