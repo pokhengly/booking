@@ -55,14 +55,20 @@ body{
     justify-content: space-between;
     background-color: #6ea8fe;
 }
+
+.header-item-left {
+    padding: 10px;
+}
+
 .header-item-inner-left{
     font-family: inherit;
-    font-size: calc(2.5rem + 2.5vw);
+    font-size: calc(2rem + 4.5vw);
+    color: white;
     font-weight: 700;
-    line-height: 4;
+    line-height: 1.25;
     background-color: #0a3622;
 }
 
-.navbar-item-left-inner-right{
-    background-color: black;
+.header-item-right{
+    padding: 10px;
 }
