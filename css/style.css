@@ -58,6 +58,7 @@ body{
 
 .header-item-left {
     padding: 10px;
+
 }
 
 .header-item-inner-left{
@@ -77,4 +78,36 @@ body{
     padding: 10px;
     font-size: 25px;
     font-family: Arial;
+}
+
+.header-btn{
+    border-radius: 12px;
+    height: 45px;
+    width: 170px;
+    background-color: gray;
+    font-size: calc(0.75rem + 0.35vw);
+    font-weight: inherit;
+    color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.header-image{
+    border-radius: 50%;
+    width: 60px;
+    margin: 15px;
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}
+
+.header-item-left-btn-img{
+    height: 80px;
+    background-color: red;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding: 5px;
 }
