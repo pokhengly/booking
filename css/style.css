@@ -1,29 +1,29 @@
 body{
-    color: #6ea8fe;
+    background-color: #222529;
 }
 .navbar{
-    background-color: #0a53be;
+    /*background-color: #0a53be;*/
     display: flex;
     align-items: center;
     justify-content: space-between;
-    font-family: inherit;
-    color: black;
+    font-family: Arial;
+    color: #ffffff;
 }
 
 .navbar-item-left{
     display: flex;
-    background-color: black;
+    /*background-color: black;*/
     height: 60px;
     padding: 10px;
     align-items: center;
 }
 .navbar-brand{
-    background-color: pink;
+    /*background-color: pink;*/
     padding-top: 5px;
 }
 
 .navbar-item-left-inner-right{
-    background-color: pink;
+    /*background-color: pink;*/
     width: 70px;
     padding-top: 5px;
     margin: 5px;
@@ -34,14 +34,13 @@ body{
 
 .navbar-item-right{
     display: flex;
-    background-color: red;
+    /*background-color: red;*/
     height: 60px;
-    padding: 10px;
     align-items: center;
 }
 
 .navbar-item-left-inner-left{
-    background-color: green;
+    /*background-color: green;*/
     width: 70px;
     padding-top: 5px;
     margin: 5px;
@@ -53,7 +52,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #6ea8fe;
+    background-color: #222529;
 }
 
 .header-item-left {
@@ -62,9 +61,9 @@ body{
 }
 
 .header-item-inner-left{
-    font-family: inherit;
+    font-family: Arial;
     font-size: calc(2rem + 4.5vw);
-    color: white;
+    color: #ffffff;
     font-weight: 700;
     line-height: 1.25;
 
@@ -77,10 +76,11 @@ body{
 .babe{
     padding: 10px;
     font-size: 25px;
-    font-family: Arial;
+    font-family: inherit;
 }
 
 .header-btn{
+    border: none;
     border-radius: 12px;
     height: 45px;
     width: 170px;
@@ -91,7 +91,6 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
 }
 
 .header-image{
@@ -105,9 +104,15 @@ body{
 
 .header-item-left-btn-img{
     height: 80px;
-    background-color: red;
+    /*background-color: red;*/
     display: flex;
     justify-content: start;
     align-items: center;
     padding: 5px;
+
+}
+
+.header-item-inner-left-btn-img-right{
+    font-size: calc(0.75rem + 0.35vw);
+    font-family: inherit;
 }
