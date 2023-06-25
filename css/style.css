@@ -19,7 +19,6 @@ body{
 }
 .navbar-brand{
     /*background-color: pink;*/
-    padding-top: 5px;
 }
 
 .navbar-item-left-inner-right{
@@ -49,10 +48,12 @@ body{
 }
 
 .header{
+    column-count: 2;
     display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: #222529;
+    background-color: #0a53be;
 }
 
 .header-item-left {
@@ -66,11 +67,17 @@ body{
     color: #ffffff;
     font-weight: 700;
     line-height: 1.25;
-
+    width: auto;
+    margin: 10px;
+    background-color: #6f42c1;
 }
 
 .header-item-right{
+    background-color: #6ea8fe;
+    width: 1500px;
+    height: 440px;
     padding: 10px;
+    margin: 20px;
 }
 
 .babe{
@@ -84,6 +91,7 @@ body{
     border-radius: 12px;
     height: 45px;
     width: 170px;
+    margin: 5px;
     background-color: gray;
     font-size: calc(0.75rem + 0.35vw);
     font-weight: inherit;
@@ -96,23 +104,29 @@ body{
 .header-image{
     border-radius: 50%;
     width: 60px;
-    margin: 15px;
+    margin: 10px;
     display: flex;
     align-items: center;
-    padding: 7px;
+    padding: 15px;
 }
 
 .header-item-left-btn-img{
     height: 80px;
-    /*background-color: red;*/
+    background-color: red;
     display: flex;
     justify-content: start;
     align-items: center;
-    padding: 5px;
-
 }
 
 .header-item-inner-left-btn-img-right{
     font-size: calc(0.75rem + 0.35vw);
     font-family: inherit;
+}
+
+.header-item-inner-right{
+    display: flex;
+    padding: 10px;
+    height: 420px;
+    width: 500px;
+
 }
