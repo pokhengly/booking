@@ -138,13 +138,14 @@ body{
     position: absolute;
     top: -30px;
     right: -30px;
-    width: 140px;
-    height: 140px;
+    width: 100px;
+    height: 100px;
     border: 3px solid #73AD21;
-    background-color: #212529;
-
     border-radius: 10px;
-
+    backdrop-filter: blur(5px);
+    box-shadow: none!important;
+    padding: 1rem !important;
+    text-align: center !important;
 }
 
 .img-relative-header-item-inner-right{
@@ -152,7 +153,3 @@ body{
     width: 550px;
 }
 
-.img-absolute-header-item-inner-right{
-    border-radius: 10px;
-
-}
