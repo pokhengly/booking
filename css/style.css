@@ -151,5 +151,24 @@ body{
 .img-relative-header-item-inner-right{
     border-radius: 10px;
     width: 550px;
+    display: flex;
+    text-align: center;
 }
 
+.headphone{
+    color: red;
+    box-sizing: border-box;
+    font-size: 2rem !important;
+}
+
+.h5{
+    color: #6f42c1;
+
+}
+
+.h6{
+    font-weight: 400 ;
+    margin-bottom: 0 ;
+    font-size: 10em ;
+    font-style: italic;
+}
