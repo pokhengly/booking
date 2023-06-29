@@ -138,37 +138,31 @@ body{
     position: absolute;
     top: -30px;
     right: -30px;
-    width: 100px;
-    height: 100px;
+    /*width: 100px;*/
+    height: 7.5rem !important;
     border: 3px solid #73AD21;
     border-radius: 10px;
     backdrop-filter: blur(5px);
     box-shadow: none!important;
     padding: 1rem !important;
     text-align: center !important;
+    /*background-color: #20c997;*/
 }
 
 .img-relative-header-item-inner-right{
     border-radius: 10px;
     width: 550px;
-    display: flex;
-    text-align: center;
 }
 
 .headphone{
     color: red;
     box-sizing: border-box;
-    font-size: 2rem !important;
+    font-size: 1.7rem !important;
+    margin-inside: 5px;
 }
 
-.h5{
-    color: #6f42c1;
-
-}
-
-.h6{
+h6{
     font-weight: 400 ;
-    margin-bottom: 0 ;
-    font-size: 10em ;
-    font-style: italic;
+    font-size: 0.875em !important;
+    margin: inherit;
 }
