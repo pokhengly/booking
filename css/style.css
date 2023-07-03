@@ -12,17 +12,17 @@ body{
 
 .navbar-item-left{
     display: flex;
-    background-color: pink;
+    /*background-color: pink;*/
     /*height: 60px;*/
     padding: 10px;
     align-items: center;
 }
 .navbar-brand{
-    background-color: white;
+    /*background-color: white;*/
 }
 
 .navbar-item-left-inner-right{
-    background-color: blue;
+    /*background-color: blue;*/
     /*width: 70px;*/
     padding-top: 5px;
     margin: 5px;
@@ -33,13 +33,13 @@ body{
 
 .navbar-item-right{
     display: flex;
-    background-color: red;
+    /*background-color: red;*/
     height: 60px;
     align-items: center;
 }
 
 .navbar-item-left-inner-left{
-    background-color: green;
+    /*background-color: green;*/
     /*width: 70px;*/
     padding-top: 5px;
     margin: 5px;
@@ -66,15 +66,16 @@ body{
     color: #ffffff;
     font-weight: 700;
     line-height: 1.25;
-    /*width: auto;*/
     margin: 10px;
+    width: 100%;
+    height: 750px;
     background-color: #6f42c1;
 }
 
 .header-item-right{
     background-color: #6ea8fe;
-    width: 1500px;
-    /*height: 440px;*/
+    width: 100%;
+    height: 750px;
     padding: 10px;
     margin: 20px;
     display: flex;
@@ -113,7 +114,7 @@ body{
 
 .header-item-left-btn-img{
     height: 80px;
-    background-color: red;
+    /*background-color: red;*/
     display: flex;
     justify-content: start;
     align-items: center;
@@ -140,7 +141,7 @@ body{
     right: -30px;
     /*width: 100px;*/
     height: 7.5rem !important;
-    border: 3px solid #73AD21;
+    border: 1px solid black;
     border-radius: 10px;
     backdrop-filter: blur(5px);
     box-shadow: none!important;
@@ -165,4 +166,24 @@ h6{
     font-weight: 400 ;
     font-size: 0.875em !important;
     margin: inherit;
+}
+
+.img-absolute-header-item-inner-left{
+    position: absolute;
+    border: 3px solid white;
+    border-radius: 50px;
+    left: -20px;
+    top: 30px;
+    height: 60px;
+    width: 60px;
+}
+
+.img-two-absolute-header-item-inner-left{
+    position: absolute;
+    border: 3px solid white;
+    border-radius: 50px;
+    left: -30px;
+    top: 180px;
+    height: 80px;
+    width: 80px;
 }
