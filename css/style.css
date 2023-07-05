@@ -231,19 +231,17 @@ h5{
 
 .location{
     position: absolute;
-    border: 3px solid pink;
-    width: 20rem !important;
+    /*border: 3px solid pink;*/
+    width: 18rem !important;
     height: 4.2rem !important;
     bottom: -0.8rem !important;
     margin: 10px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    /*display: flex;*/
+    /*align-items: center;*/
 }
 
 .body-icon-inner-location{
     border: 3px solid darkred;
-    /*background-color: white;*/
     /*color: #20c997;*/
     font-size: 2.5rem !important;
     height: 3.2rem !important;
@@ -253,11 +251,93 @@ h5{
 
 .body-border-inner-location{
     position: absolute;
-    /*background-color: palegreen;*/
-    border: 3px solid blue;
-    width: 15rem !important;
-    height: 3.2rem !important;
+    border: 3px solid gray;
+    border-radius: 10px;
+    width: 14rem !important;
+    bottom: 0rem !important;
+    margin: 5px;
+    height: 3rem !important;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
 }
+
+.check-in-out{
+    position: absolute;
+    /*border: 3px solid pink;*/
+    width: 18rem !important;
+    height: 4.2rem !important;
+    bottom: -0.8rem !important;
+    margin: 10px;
+    right: 26.5rem !important;
+
+}
+
+.body-inner-check-in-out{
+    border: 3px solid darkred;
+    /*background-color: white;*/
+    /*color: #20c997;*/
+    font-size: 2.5rem !important;
+    height: 3.2rem !important;
+    margin: 5px;
+}
+
+.body-border-inner-check-in-out{
+    position: absolute;
+    /*background-color: palegreen;*/
+    border: 3px solid gray;
+    border-radius: 10px;
+    width: 14rem !important;
+    bottom: 0rem !important;
+    margin: 5px;
+    height: 3rem !important;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.guests-and-rooms{
+    position: absolute;
+    /*border: 3px solid pink;*/
+    width: 18rem !important;
+    height: 4.2rem !important;
+    bottom: -0.8rem !important;
+    margin: 10px;
+    right: 7.3rem !important;
+}
+
+.body-inner-guests-and-rooms{
+    border: 3px solid darkred;
+    /*background-color: white;*/
+    /*color: #20c997;*/
+    font-size: 2.5rem !important;
+    height: 3.2rem !important;
+    margin: 5px;
+}
+
+.body-border-inner-guests-and-rooms{
+    position: absolute;
+    /*background-color: palegreen;*/
+    border: 3px solid gray;
+    border-radius: 10px;
+    width: 14rem !important;
+    bottom: 0rem !important;
+    margin: 5px;
+    height: 3rem !important;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+
+
+
+
+
+
 /*.relative {*/
 /*    position: relative;*/
 /*    width: 80rem !important;*/
