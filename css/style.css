@@ -160,7 +160,7 @@ body{
 
 .headphone{
     color: red;
-    box-sizing: border-box;
+    /*box-sizing: border-box;*/
     font-size: 1.7rem !important;
     margin-inside: 5px;
 }
@@ -191,36 +191,87 @@ h6{
     width: 80px;
 }
 
-/*.absolute-item-inner-header{*/
-/*    position: absolute;*/
-/*    border: 3px solid yellow;*/
-/*    bottom: 7rem !important;*/
-/*    width: 80rem !important;*/
-/*    height: 12rem !important;*/
-/*    margin: 20px;*/
-/*    background-color: white;*/
-/*}*/
-
-/*h5{*/
-/*    font-size: calc(0.25rem + 0.95vw);*/
-/*    font-family: Arial;*/
-
-/*}*/
-
-.relative {
-    position: relative;
+.absolute-item-inner-header{
+    position: absolute;
+    /*border: 3px solid yellow;*/
+    bottom: 7rem !important;
     width: 80rem !important;
     height: 12rem !important;
-    border: 3px solid #73AD21;
-    left: -80rem !important;
-    bottom: -680px;
+    margin: 20px;
+    color: white;
+    /*background-color: white;*/
 }
 
-.absolute {
-    position: absolute;
-    top: 80px;
-    left: 0px;
-    width: 100px;
-    height: 100px;
-    border: 3px solid #73AD21;
+h5{
+    font-size: calc(0.25rem + 0.95vw);
+    font-family: Arial;
+    margin: 10px;
 }
+
+.border-inner-absolute-item{
+    position: absolute;
+    /*border: 3px solid red;*/
+    border-radius: 12px;
+    bottom: 0rem !important;
+    width: 70rem !important;
+    height: 8rem !important;
+    margin: 10px;
+    background-color: black;
+}
+
+.body-border-inner-absolute-item{
+    position: absolute;
+    border: 3px solid red;
+    bottom: 1rem !important;
+    width: 65rem !important;
+    height: 6rem !important;
+    margin: 10px;
+    /*background-color: white;*/
+}
+
+.location{
+    position: absolute;
+    border: 3px solid pink;
+    width: 20rem !important;
+    height: 4.2rem !important;
+    bottom: -0.8rem !important;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.body-icon-inner-location{
+    border: 3px solid darkred;
+    /*background-color: white;*/
+    /*color: #20c997;*/
+    font-size: 2.5rem !important;
+    height: 3.2rem !important;
+    margin: 5px;
+
+}
+
+.body-border-inner-location{
+    position: absolute;
+    /*background-color: palegreen;*/
+    border: 3px solid blue;
+    width: 15rem !important;
+    height: 3.2rem !important;
+}
+/*.relative {*/
+/*    position: relative;*/
+/*    width: 80rem !important;*/
+/*    height: 12rem !important;*/
+/*    border: 3px solid #73AD21;*/
+/*    left: -80rem !important;*/
+/*    bottom: -680px;*/
+/*}*/
+
+/*.absolute {*/
+/*    position: absolute;*/
+/*    top: 80px;*/
+/*    left: 0px;*/
+/*    width: 100px;*/
+/*    height: 100px;*/
+/*    border: 3px solid #73AD21;*/
+/*}*/
