@@ -52,7 +52,7 @@ body{
     display: flex;
     /*align-items: center;*/
     justify-content: space-between;
-    background-color: #0a53be;
+    /*background-color: #0a53be;*/
     height: auto;
 }
 
@@ -61,7 +61,7 @@ body{
     height: 700px;
     padding: 10px;
     margin: 20px;
-    background-color: #6f42c1;
+    /*background-color: #6f42c1;*/
 
 }
 
@@ -76,7 +76,7 @@ body{
 }
 
 .header-item-right{
-    background-color: #6ea8fe;
+    /*background-color: #6ea8fe;*/
     width: 100%;
     height: 700px;
     padding: 10px;
@@ -213,7 +213,7 @@ h5{
     /*border: 3px solid red;*/
     border-radius: 12px;
     bottom: 0rem !important;
-    width: 70rem !important;
+    width: 62rem !important;
     height: 8rem !important;
     margin: 10px;
     background-color: black;
@@ -221,7 +221,7 @@ h5{
 
 .body-border-inner-absolute-item{
     position: absolute;
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     bottom: 1rem !important;
     width: 65rem !important;
     height: 6rem !important;
@@ -241,7 +241,7 @@ h5{
 }
 
 .body-icon-inner-location{
-    border: 3px solid darkred;
+    /*border: 3px solid darkred;*/
     /*color: #20c997;*/
     font-size: 2.5rem !important;
     height: 3.2rem !important;
@@ -275,7 +275,7 @@ h5{
 }
 
 .body-inner-check-in-out{
-    border: 3px solid darkred;
+    /*border: 3px solid darkred;*/
     /*background-color: white;*/
     /*color: #20c997;*/
     font-size: 2.5rem !important;
@@ -309,7 +309,7 @@ h5{
 }
 
 .body-inner-guests-and-rooms{
-    border: 3px solid darkred;
+    /*border: 3px solid darkred;*/
     /*background-color: white;*/
     /*color: #20c997;*/
     font-size: 2.5rem !important;
@@ -330,6 +330,25 @@ h5{
     display: flex;
     align-items: center;
     justify-content: start;
+}
+
+.border-inner-absolute-item-right{
+    position: absolute;
+    /*border: 3px solid white;*/
+    border-radius: 50px;
+    right: -30px;
+    top: 35px;
+    height: 58px;
+    width: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6f42c1;
+
+}
+
+.search-border-inner-absolute-item-right{
+    font-size: 20px;
 }
 
 
