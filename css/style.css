@@ -2,6 +2,8 @@ body{
     background-color: #222529;
 
 }
+
+/*class navbar*/
 .navbar{
     /*background-color: #0a53be;*/
     display: flex;
@@ -47,7 +49,9 @@ body{
     text-align: center;
     justify-content: center;
 }
+/*navbar class*/
 
+/*class harder*/
 .header{
     column-count: 2;
     display: flex;
@@ -361,38 +365,117 @@ h5{
 .search-border-inner-absolute-item-right{
     font-size: 20px;
 }
+/*end header*/
 
+/*class section one*/
 .section-one{
     /*background-color: #6f42c1;*/
     border: 3px solid red;
     height: 200px;
     width: auto;
+    display: flex;
+    align-content: center;
+
 }
 
-.card{
-    border: 3px solid rebeccapurple;
+/*class card-one*/
+.card-one{
+    /*border: 3px solid rebeccapurple;*/
     border-radius: 10px;
     background-color: #191b1d;
-    width: 22rem !important;
+    width: 24rem !important;
     height: 8rem !important;
     margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
 }
 
-.img-card-one{
-    /*border: 3px solid blue;*/
-    width: 11rem !important;
-    height: 8rem !important;
-}
-
-.cute1-img-card-0ne{
+.cute1-img-card-one{
     border-radius: 10px 0px 0px 10px;
-    width: 11rem !important;
+    width: 12rem !important;
     height: 8rem !important;
 }
 
-.text{
-    background-color: black;
+.text-one{
+    color: white;
+    margin: 5px;
+}
+/*class card one end*/
+
+/*class card two*/
+.card-two{
+    /*border: 3px solid rebeccapurple;*/
+    border-radius: 10px;
+    background-color: #191b1d;
+    width: 24rem !important;
+    height: 8rem !important;
+    margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
 }
 
+.cute2-img-card-two{
+    border-radius: 10px 0px 0px 10px;
+    width: 12rem !important;
+    height: 8rem !important;
+}
+
+.text-two{
+    color: white;
+    margin: 5px;
+}
+/*class card two end*/
+
+/*class card three*/
+.card-three{
+    /*border: 3px solid rebeccapurple;*/
+    border-radius: 10px;
+    background-color: #191b1d;
+    width: 24rem !important;
+    height: 8rem !important;
+    margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.cute3-img-card-three{
+    border-radius: 10px 0px 0px 10px;
+    width: 12rem !important;
+    height: 8rem !important;
+}
+
+.text-three{
+    color: white;
+    margin: 5px;
+}
+/*class card three end*/
+
+/*class card four*/
+.card-four{
+    /*border: 3px solid rebeccapurple;*/
+    border-radius: 10px;
+    background-color: #191b1d;
+    width: 24rem !important;
+    height: 8rem !important;
+    margin: 30px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+}
+
+.cute4-img-card-four{
+    border-radius: 10px 0px 0px 10px;
+    width: 12rem !important;
+    height: 8rem !important;
+}
+
+.text-four{
+    color: white;
+    margin: 5px;
+}
+/*class card four end*/
 
 
