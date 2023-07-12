@@ -1,5 +1,6 @@
 body{
     background-color: #222529;
+
 }
 .navbar{
     /*background-color: #0a53be;*/
@@ -171,24 +172,34 @@ h6{
     margin: inherit;
 }
 
+.absolute-body-item-inner-right{
+    position: absolute;
+    right: -25px;
+    top: 29rem !important;
+}
+
+.fill-warning{
+    fill: #f7c32e !important;
+}
+
 .img-absolute-header-item-inner-left{
     position: absolute;
     border: 3px solid white;
     border-radius: 50px;
-    left: -20px;
+    left: -25px;
     top: 30px;
-    height: 60px;
-    width: 60px;
+    height: 50px;
+    width: 50px;
 }
 
 .img-two-absolute-header-item-inner-left{
     position: absolute;
     border: 3px solid white;
     border-radius: 50px;
-    left: -30px;
-    top: 180px;
-    height: 80px;
-    width: 80px;
+    left: -38px;
+    top: 135px;
+    height: 75px;
+    width: 75px;
 }
 
 .absolute-item-inner-header{
@@ -216,7 +227,7 @@ h5{
     width: 62rem !important;
     height: 8rem !important;
     margin: 10px;
-    background-color: black;
+    background-color: #191b1d;
 }
 
 .body-border-inner-absolute-item{
@@ -242,7 +253,7 @@ h5{
 
 .body-icon-inner-location{
     /*border: 3px solid darkred;*/
-    /*color: #20c997;*/
+    color: #a1a1a8;
     font-size: 2.5rem !important;
     height: 3.2rem !important;
     margin: 5px;
@@ -251,7 +262,7 @@ h5{
 
 .body-border-inner-location{
     position: absolute;
-    border: 3px solid gray;
+    border: 2px solid #a1a1a8;
     border-radius: 10px;
     width: 14rem !important;
     bottom: 0rem !important;
@@ -277,7 +288,7 @@ h5{
 .body-inner-check-in-out{
     /*border: 3px solid darkred;*/
     /*background-color: white;*/
-    /*color: #20c997;*/
+    color: #a1a1a8;
     font-size: 2.5rem !important;
     height: 3.2rem !important;
     margin: 5px;
@@ -286,7 +297,7 @@ h5{
 .body-border-inner-check-in-out{
     position: absolute;
     /*background-color: palegreen;*/
-    border: 3px solid gray;
+    border: 2px solid #a1a1a8;
     border-radius: 10px;
     width: 14rem !important;
     bottom: 0rem !important;
@@ -311,7 +322,7 @@ h5{
 .body-inner-guests-and-rooms{
     /*border: 3px solid darkred;*/
     /*background-color: white;*/
-    /*color: #20c997;*/
+    color: #a1a1a8;
     font-size: 2.5rem !important;
     height: 3.2rem !important;
     margin: 5px;
@@ -320,7 +331,7 @@ h5{
 .body-border-inner-guests-and-rooms{
     position: absolute;
     /*background-color: palegreen;*/
-    border: 3px solid gray;
+    border: 2px solid #a1a1a8;
     border-radius: 10px;
     width: 14rem !important;
     bottom: 0rem !important;
@@ -351,26 +362,37 @@ h5{
     font-size: 20px;
 }
 
+.section-one{
+    /*background-color: #6f42c1;*/
+    border: 3px solid red;
+    height: 200px;
+    width: auto;
+}
+
+.card{
+    border: 3px solid rebeccapurple;
+    border-radius: 10px;
+    background-color: #191b1d;
+    width: 22rem !important;
+    height: 8rem !important;
+    margin: 30px;
+}
+
+.img-card-one{
+    /*border: 3px solid blue;*/
+    width: 11rem !important;
+    height: 8rem !important;
+}
+
+.cute1-img-card-0ne{
+    border-radius: 10px 0px 0px 10px;
+    width: 11rem !important;
+    height: 8rem !important;
+}
+
+.text{
+    background-color: black;
+}
 
 
 
-
-
-
-/*.relative {*/
-/*    position: relative;*/
-/*    width: 80rem !important;*/
-/*    height: 12rem !important;*/
-/*    border: 3px solid #73AD21;*/
-/*    left: -80rem !important;*/
-/*    bottom: -680px;*/
-/*}*/
-
-/*.absolute {*/
-/*    position: absolute;*/
-/*    top: 80px;*/
-/*    left: 0px;*/
-/*    width: 100px;*/
-/*    height: 100px;*/
-/*    border: 3px solid #73AD21;*/
-/*}*/
