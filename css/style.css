@@ -370,9 +370,9 @@ h5{
 /*class section one*/
 .section-one{
     /*background-color: #6f42c1;*/
-    border: 3px solid red;
-    height: 200px;
-    width: auto;
+    /*border: 3px solid red;*/
+    /*height: 200px;*/
+    /*width: auto;*/
     display: flex;
     align-content: center;
 
@@ -401,6 +401,10 @@ h5{
     color: white;
     margin: 5px;
 }
+
+.t-one{
+    color: #a1a1a8;
+}
 /*class card one end*/
 
 /*class card two*/
@@ -425,6 +429,10 @@ h5{
 .text-two{
     color: white;
     margin: 5px;
+}
+
+.t-two{
+    color: #a1a1a8;
 }
 /*class card two end*/
 
@@ -451,6 +459,10 @@ h5{
     color: white;
     margin: 5px;
 }
+
+.t-three{
+    color: #a1a1a8;
+}
 /*class card three end*/
 
 /*class card four*/
@@ -475,6 +487,10 @@ h5{
 .text-four{
     color: white;
     margin: 5px;
+}
+
+.t-four{
+    color: #a1a1a8;
 }
 /*class card four end*/
 
