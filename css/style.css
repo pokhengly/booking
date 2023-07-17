@@ -495,10 +495,46 @@ h5{
 /*class card four end*/
 
 /*class section two*/
-.section-two-relative{
+.relative{
     background-color: #6ea8fe;
-    height: 200px;
+    height: auto;
     width: auto;
+}
+
+.section-two-relative{
+    position: relative;
+    margin: 30px;
+    border-radius: 20px;
+    width: 37.5rem !important;
+    height: 48rem !important;
+}
+
+.section-two-absolute{
+    position: absolute;
+    top: 104.5rem !important;
+    border: 3px solid red;
+    background-color: black;
+    width: 18rem !important;
+    height: 7rem !important;
+    border-radius: 10px;
+    display: flex;
+    left: 70px;
+}
+
+.text-section-two{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+
+.section-two-inner-left{
+    display: flex;
+    justify-items: center;
+}
+
+.section-two-inner-right{
+    display: flex;
+    justify-items: center;
 }
 /*class section two end*/
 
