@@ -511,9 +511,10 @@ h5{
 
 .section-two-absolute{
     position: absolute;
+    padding-top: 10px;
     top: 104.5rem !important;
-    border: 3px solid red;
-    background-color: black;
+    /*border: 3px solid red;*/
+    background-color: #222529;
     width: 18rem !important;
     height: 7rem !important;
     border-radius: 10px;
@@ -537,21 +538,18 @@ h5{
 .section-two-inner-right{
     position: absolute;
     right: 0px;
-    color: #6f42c1;
+    color: white;
     margin: 10px;
 }
 
-.absolute-inner{
+.photo-absolute{
     position: absolute;
     bottom: -4px;
-    border: 3px solid rebeccapurple;
-    background-color: white;
+    /*border: 3px solid rebeccapurple;*/
+    /*background-color: white;*/
     width: 16.9rem !important;
     height: 4.5rem !important;
-    margin: 5px;
-}
-
-.photo-absolute{
+    margin: 10px;
     display: flex;
     align-items: center;
 
@@ -559,53 +557,79 @@ h5{
 
 .photo-absolute-inner-left1{
     position: absolute;
-    height: 50px;
-    width: 50px;
-    border: 3px solid green;
+    height: 40px;
+    width: 40px;
+    /*border: 3px solid green;*/
     border-radius: 50px;
 
 }
 
 .photo-absolute-inner-right1{
     position: absolute;
-    height: 50px;
-    width: 50px;
-    border: 3px solid green;
+    height: 40px;
+    width: 40px;
+    /*border: 3px solid green;*/
     border-radius: 50px;
     left: 35px;
 }
 
 .photo-absolute-inner-right2{
     position: absolute;
-    height: 50px;
-    width: 50px;
-    border: 3px solid green;
+    height: 40px;
+    width: 40px;
+    /*border: 3px solid green;*/
     border-radius: 50px;
     left: 70px;
 }
 
 .photo-absolute-inner-right3{
     position: absolute;
-    height: 50px;
-    width: 50px;
-    border: 3px solid green;
+    height: 40px;
+    width: 40px;
+    /*border: 3px solid green;*/
     border-radius: 50px;
     left: 105px;
 }
 
 .photo-absolute-inner-right4{
     position: absolute;
-    height: 50px;
-    width: 50px;
-    border: 3px solid red;
+    height: 40px;
+    width: 40px;
+    color: white;
+    /*border: 3px solid red;*/
+    background-color: mediumpurple;
     border-radius: 50px;
     left: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .start-absolute{
     position: absolute;
+    bottom: 6px;
+    right: 10px;
+    color: #f7c32e !important;
+    margin: 5px;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
 
-    color: yellow;
+.like-absolute{
+    position: absolute;
+    height: 35px;
+    width: 35px;
+    color: white;
+    font-size: 16px;
+    /*border: 3px solid green;*/
+    background-color: #0a53be;
+    border-radius: 50px;
+    left: -18px;
+    top: -20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 /*class section two end*/
 
