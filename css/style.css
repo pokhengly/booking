@@ -541,19 +541,71 @@ h5{
     margin: 10px;
 }
 
-.photo-absolute{
+.absolute-inner{
     position: absolute;
     bottom: -4px;
     border: 3px solid rebeccapurple;
     background-color: white;
-    width: 18rem !important;
+    width: 16.9rem !important;
     height: 4.5rem !important;
+    margin: 5px;
+}
+
+.photo-absolute{
+    display: flex;
+    align-items: center;
 
 }
 
 .photo-absolute-inner-left1{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 3px solid green;
+    border-radius: 50px;
 
 }
 
+.photo-absolute-inner-right1{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 3px solid green;
+    border-radius: 50px;
+    left: 35px;
+}
+
+.photo-absolute-inner-right2{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 3px solid green;
+    border-radius: 50px;
+    left: 70px;
+}
+
+.photo-absolute-inner-right3{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 3px solid green;
+    border-radius: 50px;
+    left: 105px;
+}
+
+.photo-absolute-inner-right4{
+    position: absolute;
+    height: 50px;
+    width: 50px;
+    border: 3px solid red;
+    border-radius: 50px;
+    left: 140px;
+}
+
+.start-absolute{
+    position: absolute;
+
+    color: yellow;
+}
 /*class section two end*/
 
