@@ -496,7 +496,7 @@ h5{
 
 /*class section two*/
 .relative{
-    background-color: #6ea8fe;
+    /*background-color: #6ea8fe;*/
     height: auto;
     width: auto;
 }
@@ -630,6 +630,19 @@ h5{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.star-style{
+    position: absolute;
+    top: 62.9rem !important;
+    left: 12px;
+}
+
+.bg-absolute{
+    position: absolute;
+    top: 91rem !important;
+    left: 20rem !important;
+
 }
 /*class section two end*/
 
