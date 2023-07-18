@@ -519,22 +519,41 @@ h5{
     border-radius: 10px;
     display: flex;
     left: 70px;
+    /*align-content: center;*/
+    /*justify-content: space-between;*/
 }
 
 .text-section-two{
-    color: white;
     display: flex;
+    align-content: center;
     justify-content: space-between;
 }
 
 .section-two-inner-left{
-    display: flex;
-    justify-items: center;
+    color: white;
+    margin: 10px;
 }
 
 .section-two-inner-right{
-    display: flex;
-    justify-items: center;
+    position: absolute;
+    right: 0px;
+    color: #6f42c1;
+    margin: 10px;
 }
+
+.photo-absolute{
+    position: absolute;
+    bottom: -4px;
+    border: 3px solid rebeccapurple;
+    background-color: white;
+    width: 18rem !important;
+    height: 4.5rem !important;
+
+}
+
+.photo-absolute-inner-left1{
+
+}
+
 /*class section two end*/
 
