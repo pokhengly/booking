@@ -686,7 +686,7 @@ h5{
 .food{
     border: 3px solid black;
     background-color: darkgreen;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -699,6 +699,7 @@ h5{
 .quick-services{
     position: absolute;
     border: 3px solid red;
+    color: white;
     /*background-color: #6f42c1;*/
     width: 46.5%;
     height: 27.3%;
@@ -710,7 +711,7 @@ h5{
 .services{
     border: 3px solid black;
     background-color: darkgreen;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -724,13 +725,14 @@ h5{
     border: 3px solid red;
     width: 46.5%;
     height: 39.3%;
+    color: white;
 
 }
 
 .security{
     border: 3px solid black;
     background-color: darkgreen;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -749,13 +751,14 @@ h5{
     /*margin-top: 3rem !important;*/
     right: 0px;
     top: 31rem;
+    color: white;
 
 }
 
 .alert{
     border: 3px solid black;
     background-color: darkgreen;
-    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
     height: 60px;
     width: 60px;
     border-radius: 50px;
