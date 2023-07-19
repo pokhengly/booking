@@ -501,6 +501,12 @@ h5{
     width: auto;
 }
 
+.bg-absolute{
+    position: absolute;
+    top: 91rem !important;
+    left: 20rem !important;
+}
+
 .section-two-relative{
     position: relative;
     margin: 30px;
@@ -637,12 +643,21 @@ h5{
     top: 62.9rem !important;
     left: 12px;
 }
-
-.bg-absolute{
-    position: absolute;
-    top: 91rem !important;
-    left: 20rem !important;
-
-}
 /*class section two end*/
+
+/*section three*/
+.section-three{
+    margin: 30px;
+    border: 3px solid red;
+    background-color: #0a53be;
+}
+.section-three-head{
+    color: white;
+    font-family: inherit;
+    font-size: calc(0.5rem + 1.5vw);
+    font-weight: 700;
+    line-height: 1.25;
+    margin-top: 30px;
+}
+/*class section three end*/
 
