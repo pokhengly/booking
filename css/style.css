@@ -643,6 +643,19 @@ h5{
     top: 62.9rem !important;
     left: 12px;
 }
+
+.section-two-absolute-right{
+    position: absolute;
+    background-color: yellow;
+    color: white;
+    font-family: inherit;
+    font-size: calc(0.5rem + 2vw);
+    font-weight: 700;
+    line-height: 0.5;
+    right: 0px;
+    top: 65rem !important
+}
+
 /*class section two end*/
 
 /*section three*/
