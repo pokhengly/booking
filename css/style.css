@@ -646,15 +646,74 @@ h5{
 
 .section-two-absolute-right{
     position: absolute;
-    background-color: yellow;
-    color: white;
-    font-family: inherit;
-    font-size: calc(0.5rem + 2vw);
-    font-weight: 700;
-    line-height: 0.5;
-    right: 0px;
+    border: 3px solid blue;
+    width: 57%;
+    height: auto;
+    background-color: pink;
+    right: 30px;
     top: 65rem !important
 }
+
+.section-two-absolute-inner-right{
+    color: white;
+    font-family: inherit;
+    font-size: calc(1.4rem + 0.5vw);
+    right: 30px;
+}
+
+.section-two-absolute-inner-head{
+    background-color: #0a53be;
+    /*width: 65%;*/
+    color: #a1a1a8;
+}
+
+.one-row{
+    border: 3px solid yellow;
+    width: 100%;
+    height: 50%;
+}
+
+.quality-food{
+    border: 3px solid red;
+    /*background-color: #6f42c1;*/
+    width: 46.5%;
+    /*height: auto;*/
+    /*margin-top: 3rem !important;*/
+}
+
+.food{
+    border: 3px solid black;
+    background-color: darkgreen;
+    color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.quick-Services{
+    position: absolute;
+    border: 3px solid red;
+    width: 46.5%;
+    /*background-color: #6f42c1;*/
+    right: 0px;
+    top: 18.4rem;
+}
+
+.services{
+    border: 3px solid black;
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+
 
 /*class section two end*/
 
