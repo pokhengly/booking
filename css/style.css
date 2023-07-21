@@ -668,25 +668,23 @@ h5{
 }
 
 .one-row{
-    border: 3px solid yellow;
+    /*border: 3px solid yellow;*/
+    /*background-color: #20c997;*/
     width: 100%;
     height: auto;
 }
 
 .quality-food{
     border: 3px solid red;
-    width: 46.5%;
+    width: 47.5%;
     height: 39.3%;
     color: white;
-    /*background-color: #6f42c1;*/
-    /*height: auto;*/
-    /*margin-top: 3rem !important;*/
+    margin: 5px;
 }
 
 .food{
-    border: 3px solid black;
+    /*border: 3px solid black;*/
     background-color: darkgreen;
-    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -699,19 +697,17 @@ h5{
 .quick-services{
     position: absolute;
     border: 3px solid red;
-    color: white;
     /*background-color: #6f42c1;*/
-    width: 46.5%;
+    width: 47.5%;
     height: 27.3%;
-    /*margin-top: 3rem !important;*/
-    right: 0px;
-    top: 18.4rem;
+    right: 5px;
+    top: 18.2rem;
+    color: white;
 }
 
 .services{
-    border: 3px solid black;
-    background-color: darkgreen;
-    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
+    /*border: 3px solid black;*/
+    background-color: red;
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -723,16 +719,16 @@ h5{
 
 .high-security{
     border: 3px solid red;
-    width: 46.5%;
+    width: 47.5%;
     height: 39.3%;
     color: white;
+    margin: 5px;
 
 }
 
 .security{
-    border: 3px solid black;
-    background-color: darkgreen;
-    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
+    /*border: 3px solid black;*/
+    background-color: orange;
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -746,19 +742,18 @@ h5{
     position: absolute;
     border: 3px solid red;
     /*background-color: #6f42c1;*/
-    width: 46.5%;
+    width: 47.5%;
     height: 27.3%;
     /*margin-top: 3rem !important;*/
-    right: 0px;
-    top: 31rem;
+    right: 5px;
+    top: 30.6rem;
     color: white;
 
 }
 
 .alert{
-    border: 3px solid black;
-    background-color: darkgreen;
-    /*color: rgba(var(--bs-success-rgb), var(--bs-text-opacity)) !important;*/
+    /*border: 3px solid black;*/
+    background-color: lightseagreen;
     height: 60px;
     width: 60px;
     border-radius: 50px;
@@ -772,6 +767,8 @@ h5{
 
 
 /*class section two end*/
+
+
 
 /*section three*/
 .section-three{
