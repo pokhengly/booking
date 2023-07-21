@@ -935,3 +935,40 @@ h5{
 }
 /*class section three end*/
 
+/*start class section four*/
+.section-four{
+    position: absolute;
+    border: 2px solid white;
+    height: 560px;
+    width: 1820px;
+    margin: 30px;
+}
+
+.section-four-absolute-inner-left{
+    border-radius: 10px;
+    height: 35rem;
+    width: 30rem;
+}
+
+.absolute-inner-section-four-left{
+    position: absolute;
+    top: 3rem;
+    left: -25px;
+    background-color: orange;
+    border: 2px solid red;
+    border-radius: 10px;
+    height: 60px;
+    width: 60px;
+}
+
+.text-inner-section-four{
+    position: absolute;
+    top: 20px;
+    left: 40rem;
+    border: 3px solid blue;
+    border-radius: 10px;
+    height: 10rem;
+    width: 70rem;
+}
+/*end class section four*/
+
