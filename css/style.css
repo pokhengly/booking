@@ -769,9 +769,6 @@ h5{
     font-size: 30px;
 
 }
-
-
-
 /*class section two end*/
 
 
@@ -781,6 +778,7 @@ h5{
     margin: 30px;
     border: 3px solid red;
     background-color: #0a53be;
+    height: auto;
 }
 .section-three-head{
     color: white;
@@ -789,6 +787,151 @@ h5{
     font-weight: 700;
     line-height: 1.25;
     margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.inner-right1{
+    border: 3px solid orange;
+    left: 40px;
+    height: 32rem;
+    width: 17rem;
+
+}
+.section-three-card-absolute-inner-right1{
+    /*position: absolute;*/
+    left: 40px;
+    /*border: 3px solid red;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right1-box{
+    border: 2px solid red;
+    left: 40px;
+    height: 6rem;
+    width: 17rem;
+}
+
+.inner-right2{
+    position: absolute;
+    border: 3px solid red;
+    left: 22rem;
+    height: 32rem;
+    width: 17rem;
+    top: 131.5rem;
+}
+.section-three-card-absolute-inner-right2{
+    /*position: absolute;*/
+    left: 22rem;
+    /*top: 131.3rem;*/
+    /*border:3px solid black;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right2-box{
+    border: 2px solid red;
+    left: 22rem;
+    height: 6rem;
+    width: 17rem;
+}
+
+.inner-right3{
+    position: absolute;
+    border:3px solid rebeccapurple;
+    top: 131.5rem;
+    left: 41.4rem;
+    height: 32rem;
+    width: 17rem;
+}
+.section-three-card-absolute-inner-right3{
+    /*position: absolute;*/
+    /*top: 131.3rem;*/
+    left: 41.4rem;
+    /*border:3px solid rebeccapurple;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right3-box{
+    border: 2px solid red;
+    left: 41.4rem;
+    height: 6rem;
+    width: 17rem;
+}
+
+.inner-right4{
+    position: absolute;
+    border: 3px solid deeppink;
+    top: 131.5rem;
+    right: 41rem;
+    height: 32rem;
+    width: 17rem;
+}
+.section-three-card-absolute-inner-right4{
+    /*position: absolute;*/
+    /*top: 131.3rem;*/
+    right: 41rem;
+    /*border: 3px solid deeppink;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right4-box{
+    border: 2px solid red;
+    right: 41rem;
+    height: 6rem;
+    width: 17rem;
+}
+
+.inner-right5{
+    position: absolute;
+    border: 3px solid deepskyblue;
+    top: 131.5rem;
+    right: 21.7rem;
+    height: 32rem;
+    width: 17rem;
+
+}
+.section-three-card-absolute-inner-right5{
+    /*position: absolute;*/
+    /*top: 131.5rem;*/
+    right: 21.7rem;
+    /*border: 3px solid deepskyblue;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right5-box{
+    border: 2px solid red;
+    right: 21.7rem;
+    height: 6rem;
+    width: 17rem;
+}
+
+.inner-right6{
+    position: absolute;
+    border: 3px solid mediumspringgreen;
+    top: 131.5rem;
+    right:40px;
+    height: 32rem;
+    width: 17rem;
+}
+.section-three-card-absolute-inner-right6{
+    /*position: absolute;*/
+    /*top: 131.5rem;*/
+    right:40px;
+    /*border: 3px solid mediumspringgreen;*/
+    border-radius: 15px;
+    height: 25rem;
+    width: 17rem;
+}
+.inner-right6-box{
+    border: 2px solid red;
+    right: 40px;
+    height: 6rem;
+    width: 17rem;
 }
 /*class section three end*/
 
