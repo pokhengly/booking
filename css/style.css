@@ -694,6 +694,9 @@ h5{
     font-size: 30px;
 }
 
+.text-inner-food{
+    color: #a1a1a8;
+}
 .quick-services{
     position: absolute;
     border: 3px solid red;
@@ -701,7 +704,7 @@ h5{
     width: 47.5%;
     height: 27.3%;
     right: 5px;
-    top: 18.2rem;
+    top: 18.29rem;
     color: white;
 }
 
@@ -715,6 +718,10 @@ h5{
     justify-content: center;
     align-items: center;
     font-size: 30px;
+}
+
+.text-inner-service{
+    color: #a1a1a8;
 }
 
 .high-security{
@@ -746,9 +753,8 @@ h5{
     height: 27.3%;
     /*margin-top: 3rem !important;*/
     right: 5px;
-    top: 30.6rem;
+    top: 30.75rem;
     color: white;
-
 }
 
 .alert{
