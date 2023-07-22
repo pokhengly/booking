@@ -796,7 +796,6 @@ h5{
     left: 40px;
     height: 32rem;
     width: 17rem;
-
 }
 .section-three-card-absolute-inner-right1{
     /*position: absolute;*/
@@ -805,6 +804,23 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+}
+.new-york{
+    position: absolute;
+    height: 1.8rem;
+    width: 7rem;
+    top: 153.8rem;
+    left: 4rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-new-york{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
 }
 .inner-right1-box{
     border: 2px solid red;
@@ -846,6 +862,24 @@ h5{
     height: 25rem;
     width: 17rem;
 }
+.california{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 8.5rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-california{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
+}
 .inner-right2-box{
     border: 2px solid greenyellow;
     left: 22rem;
@@ -877,6 +911,24 @@ h5{
     height: 32rem;
     width: 17rem;
 }
+.los-angeles{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 9rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-los-angeles{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
+}
 .section-three-card-absolute-inner-right3{
     /*position: absolute;*/
     /*top: 131.3rem;*/
@@ -885,6 +937,24 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+}
+.chicago{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 7rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-chicago{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
 }
 .inner-right3-box{
     border: 2px solid red;
@@ -925,6 +995,24 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+}
+.chicago{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 7rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-chicago{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
 }
 .inner-right4-box{
     border: 2px solid red;
@@ -967,6 +1055,24 @@ h5{
     height: 25rem;
     width: 17rem;
 }
+.chicago{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 7rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-chicago{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
+}
 .inner-right5-box{
     border: 2px solid red;
     right: 21.7rem;
@@ -1006,6 +1112,24 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+}
+.california{
+    position: absolute;
+    /*left: 22rem;*/
+    height: 1.8rem;
+    width: 8.5rem;
+    top: 22rem;
+    left: 1.5rem;
+    /*border: 3px solid orange;*/
+    border-radius: 15px;
+    background-color: black;
+}
+.location-california{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 2.5px;
+    color: white;
 }
 .inner-right6-box{
     border: 2px solid red;
