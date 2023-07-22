@@ -812,6 +812,22 @@ h5{
     height: 6rem;
     width: 17rem;
 }
+.text-head-inner-right1{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left1{
+    color: #20c997;
+}
+.inner-text-body-right1{
+    color: orange;
+}
 
 .inner-right2{
     position: absolute;
@@ -831,10 +847,26 @@ h5{
     width: 17rem;
 }
 .inner-right2-box{
-    border: 2px solid red;
+    border: 2px solid greenyellow;
     left: 22rem;
     height: 6rem;
     width: 17rem;
+}
+.text-head-inner-right2{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left2{
+    color: #20c997;
+}
+.inner-text-body-right2{
+    color: orange;
 }
 
 .inner-right3{
@@ -860,6 +892,22 @@ h5{
     height: 6rem;
     width: 17rem;
 }
+.text-head-inner-right3{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left3{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left3{
+    color: #20c997;
+}
+.inner-text-body-right3{
+    color: orange;
+}
 
 .inner-right4{
     position: absolute;
@@ -883,6 +931,22 @@ h5{
     right: 41rem;
     height: 6rem;
     width: 17rem;
+}
+.text-head-inner-right4{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left4{
+    color: #20c997;
+}
+.inner-text-body-right4{
+    color: orange;
 }
 
 .inner-right5{
@@ -909,6 +973,22 @@ h5{
     height: 6rem;
     width: 17rem;
 }
+.text-head-inner-right5{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left5{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left5{
+    color: #20c997;
+}
+.inner-text-body-right5{
+    color: orange;
+}
 
 .inner-right6{
     position: absolute;
@@ -929,9 +1009,25 @@ h5{
 }
 .inner-right6-box{
     border: 2px solid red;
-    right: 40px;
+    left: 41.4rem;
     height: 6rem;
     width: 17rem;
+}
+.text-head-inner-right6{
+    color: white;
+    font-size: 14px;
+}
+.text-body-inner-left6{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: -25px;
+}
+.inner-text-body-left6{
+    color: #20c997;
+}
+.inner-text-body-right6{
+    color: orange;
 }
 /*class section three end*/
 
