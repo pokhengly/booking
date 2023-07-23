@@ -1156,7 +1156,32 @@ h5{
 /*class section three end*/
 
 /*start class section four*/
-.section-four{
+.client{
+    /*border: 2px solid white;*/
+    background-color: #20c997;
+    margin: 30px;
+}
+.container{
+    display: flex;
+    border: 2px solid red;
+    height: 100px;
+    width: auto;
+}
+.client-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.grayscale{
+    border: 2px solid blue;
+    margin: 10px;
+    height: 70px;
+    width: 17.48rem;
+}
+/*end class section four*/
+
+/*start class five*/
+.section-five{
     position: absolute;
     border: 2px solid white;
     height: 560px;
@@ -1164,13 +1189,13 @@ h5{
     margin: 30px;
 }
 
-.section-four-absolute-inner-left{
+.section-five-absolute-inner-left{
     border-radius: 10px;
     height: 35rem;
     width: 30rem;
 }
 
-.absolute-inner-section-four-left{
+.absolute-inner-section-five-left{
     position: absolute;
     top: 3rem;
     left: -25px;
@@ -1180,15 +1205,19 @@ h5{
     height: 60px;
     width: 60px;
 }
+.display-3{
+    color: white;
+    font-size: 8rem;
+}
 
-.text-inner-section-four{
+.text-inner-section-five{
     position: absolute;
     top: 20px;
     left: 40rem;
     border: 3px solid blue;
     border-radius: 10px;
-    height: 10rem;
+    height: 30rem;
     width: 70rem;
 }
-/*end class section four*/
+/*end class five*/
 
