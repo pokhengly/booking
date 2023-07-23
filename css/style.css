@@ -776,7 +776,7 @@ h5{
 /*section three*/
 .section-three{
     margin: 30px;
-    /*bc change*/
+    /*bc change */
     border: 3px solid #222529;
     /*background-color: #0a53be;*/
     height: auto;
@@ -1159,12 +1159,12 @@ h5{
 /*start class section four*/
 .client{
     /*border: 2px solid white;*/
-    background-color: #20c997;
+    /*background-color: #20c997;*/
     margin: 30px;
 }
 .container{
     display: flex;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     height: 100px;
     width: auto;
 }
@@ -1174,7 +1174,7 @@ h5{
     justify-content: center;
 }
 .grayscale{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: 10px;
     height: 70px;
     width: 17.48rem;
@@ -1184,7 +1184,7 @@ h5{
 /*start class five*/
 .section-five{
     position: absolute;
-    border: 2px solid white;
+    /*border: 2px solid white;*/
     height: 560px;
     width: 1820px;
     margin: 30px;
@@ -1201,7 +1201,7 @@ h5{
     top: 3rem;
     left: -25px;
     background-color: orange;
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     border-radius: 10px;
     height: 60px;
     width: 60px;
@@ -1219,13 +1219,13 @@ h5{
     position: absolute;
     top: 20px;
     left: 40rem;
-    border: 3px solid blue;
+    /*border: 3px solid blue;*/
     border-radius: 10px;
     height: 30rem;
     width: 70rem;
 }
 .text-quote{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: 10px;
     height: 80px;
     width: 68.4rem;
@@ -1234,7 +1234,7 @@ h5{
     color: white;
 }
 .list-line{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: 10px;
     height: 40px;
     width: 150px;
@@ -1243,7 +1243,7 @@ h5{
     color: orange;
 }
 .carolyn-ortiz{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: 10px;
     height: 40px;
     width: 180px;
@@ -1253,7 +1253,7 @@ h5{
 
 }
 .inner-carolyn-ortiz{
-    border: 2px solid blue;
+    /*border: 2px solid blue;*/
     margin: 10px;
     height: 40px;
     width: 180px;
