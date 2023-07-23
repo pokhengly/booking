@@ -1206,10 +1206,10 @@ h5{
     width: 60px;
 }
 .display-3{
-    color: white;
-    font-size: 8rem;
+    color: mediumpurple;
+    font-size: 6rem;
+    margin: 10px;
 }
-
 .text-inner-section-five{
     position: absolute;
     top: 20px;
@@ -1218,6 +1218,24 @@ h5{
     border-radius: 10px;
     height: 30rem;
     width: 70rem;
+}
+.text-quote{
+    border: 2px solid blue;
+    margin: 10px;
+    height: 80px;
+    width: 68.4rem;
+    display: flex;
+    align-items: center;
+    color: white;
+}
+.list-line{
+    border: 2px solid blue;
+    margin: 10px;
+    height: 40px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    color: orange;
 }
 /*end class five*/
 
