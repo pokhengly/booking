@@ -646,10 +646,10 @@ h5{
 
 .section-two-absolute-right{
     position: absolute;
-    border: 3px solid blue;
+    /*border: 3px solid blue;*/
     width: 57%;
     height: auto;
-    background-color: pink;
+    /*background-color: pink;*/
     right: 30px;
     top: 65rem !important
 }
@@ -662,7 +662,7 @@ h5{
 }
 
 .section-two-absolute-inner-head{
-    background-color: #0a53be;
+    /*background-color: #0a53be;*/
     /*width: 65%;*/
     color: #a1a1a8;
 }
@@ -675,7 +675,7 @@ h5{
 }
 
 .quality-food{
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     width: 47.5%;
     height: 39.3%;
     color: white;
@@ -699,7 +699,7 @@ h5{
 }
 .quick-services{
     position: absolute;
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     /*background-color: #6f42c1;*/
     width: 47.5%;
     height: 27.3%;
@@ -725,7 +725,7 @@ h5{
 }
 
 .high-security{
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     width: 47.5%;
     height: 39.3%;
     color: white;
@@ -747,7 +747,7 @@ h5{
 
 .hours-alert{
     position: absolute;
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     /*background-color: #6f42c1;*/
     width: 47.5%;
     height: 27.3%;
@@ -776,8 +776,9 @@ h5{
 /*section three*/
 .section-three{
     margin: 30px;
-    border: 3px solid red;
-    background-color: #0a53be;
+    /*bc change*/
+    border: 3px solid #222529;
+    /*background-color: #0a53be;*/
     height: auto;
 }
 .section-three-head{
@@ -792,7 +793,7 @@ h5{
 }
 
 .inner-right1{
-    border: 3px solid orange;
+    /*border: 3px solid orange;*/
     left: 40px;
     height: 32rem;
     width: 17rem;
@@ -823,7 +824,7 @@ h5{
     color: white;
 }
 .inner-right1-box{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     left: 40px;
     height: 6rem;
     width: 17rem;
@@ -847,7 +848,7 @@ h5{
 
 .inner-right2{
     position: absolute;
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     left: 22rem;
     height: 32rem;
     width: 17rem;
@@ -881,7 +882,7 @@ h5{
     color: white;
 }
 .inner-right2-box{
-    border: 2px solid greenyellow;
+    /*border: 2px solid greenyellow;*/
     left: 22rem;
     height: 6rem;
     width: 17rem;
@@ -905,7 +906,7 @@ h5{
 
 .inner-right3{
     position: absolute;
-    border:3px solid rebeccapurple;
+    /*border:3px solid rebeccapurple;*/
     top: 131.5rem;
     left: 41.4rem;
     height: 32rem;
@@ -957,7 +958,7 @@ h5{
     color: white;
 }
 .inner-right3-box{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     left: 41.4rem;
     height: 6rem;
     width: 17rem;
@@ -981,7 +982,7 @@ h5{
 
 .inner-right4{
     position: absolute;
-    border: 3px solid deeppink;
+    /*border: 3px solid deeppink;*/
     top: 131.5rem;
     right: 41rem;
     height: 32rem;
@@ -1015,7 +1016,7 @@ h5{
     color: white;
 }
 .inner-right4-box{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     right: 41rem;
     height: 6rem;
     width: 17rem;
@@ -1024,7 +1025,7 @@ h5{
     color: white;
     font-size: 14px;
 }
-.text-body-inner-left4{
+.text-body-inner-right4{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1039,7 +1040,7 @@ h5{
 
 .inner-right5{
     position: absolute;
-    border: 3px solid deepskyblue;
+    /*border: 3px solid deepskyblue;*/
     top: 131.5rem;
     right: 21.7rem;
     height: 32rem;
@@ -1074,7 +1075,7 @@ h5{
     color: white;
 }
 .inner-right5-box{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     right: 21.7rem;
     height: 6rem;
     width: 17rem;
@@ -1083,7 +1084,7 @@ h5{
     color: white;
     font-size: 14px;
 }
-.text-body-inner-left5{
+.text-body-inner-right5{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1098,16 +1099,16 @@ h5{
 
 .inner-right6{
     position: absolute;
-    border: 3px solid mediumspringgreen;
+    /*border: 3px solid mediumspringgreen;*/
     top: 131.5rem;
-    right:40px;
+    right:43px;
     height: 32rem;
     width: 17rem;
 }
 .section-three-card-absolute-inner-right6{
     /*position: absolute;*/
     /*top: 131.5rem;*/
-    right:40px;
+    right:43px;
     /*border: 3px solid mediumspringgreen;*/
     border-radius: 15px;
     height: 25rem;
@@ -1132,7 +1133,7 @@ h5{
     color: white;
 }
 .inner-right6-box{
-    border: 2px solid red;
+    /*border: 2px solid red;*/
     left: 41.4rem;
     height: 6rem;
     width: 17rem;
@@ -1141,7 +1142,7 @@ h5{
     color: white;
     font-size: 14px;
 }
-.text-body-inner-left6{
+.text-body-inner-right6{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -1204,6 +1205,10 @@ h5{
     border-radius: 10px;
     height: 60px;
     width: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
 }
 .display-3{
     color: mediumpurple;
@@ -1236,6 +1241,25 @@ h5{
     display: flex;
     align-items: center;
     color: orange;
+}
+.carolyn-ortiz{
+    border: 2px solid blue;
+    margin: 10px;
+    height: 40px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    color: white;
+
+}
+.inner-carolyn-ortiz{
+    border: 2px solid blue;
+    margin: 10px;
+    height: 40px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    color: #a1a1a8;
 }
 /*end class five*/
 
