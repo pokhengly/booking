@@ -214,6 +214,7 @@ h6{
     height: 12rem !important;
     margin: 20px;
     color: white;
+
     /*background-color: white;*/
 }
 
@@ -505,6 +506,9 @@ h5{
     position: absolute;
     top: 91rem !important;
     left: 20rem !important;
+}
+.fill-primary-opacity-2{
+    fill: #8e85e6;
 }
 
 .section-two-relative{
@@ -805,6 +809,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .new-york{
     position: absolute;
@@ -862,6 +867,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .california{
     position: absolute;
@@ -938,6 +944,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .chicago{
     position: absolute;
@@ -996,6 +1003,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .chicago{
     position: absolute;
@@ -1055,6 +1063,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .chicago{
     position: absolute;
@@ -1113,6 +1122,7 @@ h5{
     border-radius: 15px;
     height: 25rem;
     width: 17rem;
+    object-fit: cover;
 }
 .california{
     position: absolute;
